@@ -30,3 +30,9 @@ Nota: Los dígitos de los sistemas de numeración siempre están escritos de men
 ### ¿Qué pedimos? 
 
 Utilizando el lenguaje de programación con el que te sientas más cómodo, desarrolla una aplicación que tenga como entrada el fichero de puntuaciones codificado y proporcione a la salida un fichero CSV con las puntuaciones de los usuarios (una línea por usuario) ordenado por puntuación. 
+
+### Instalación
+
+ ```bash
+    node index.js
+
